@@ -1,5 +1,8 @@
+html,
+body,
 #root {
-  height: 100vh;
+  height: 100%;
+  background-color: #0e1129;
 }
 
 body {
