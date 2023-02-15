@@ -1,7 +1,9 @@
-import "./App.css";
+import Spline from "@splinetool/react-spline";
 
 function App() {
-  return <div></div>;
+  return (
+    <Spline scene="https://prod.spline.design/QwBYb3Ge8ARRh5Ir/scene.splinecode" />
+  );
 }
 
 export default App;
