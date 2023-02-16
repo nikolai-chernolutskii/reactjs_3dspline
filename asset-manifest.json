@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactjs_3dspline/static/css/main.02a2f3d0.css",
+    "main.js": "/reactjs_3dspline/static/js/main.7e681212.js",
+    "static/js/227.7e4dc72c.chunk.js": "/reactjs_3dspline/static/js/227.7e4dc72c.chunk.js",
+    "static/js/526.d0ec0c7b.chunk.js": "/reactjs_3dspline/static/js/526.d0ec0c7b.chunk.js",
+    "static/js/232.7c08ec9c.chunk.js": "/reactjs_3dspline/static/js/232.7c08ec9c.chunk.js",
+    "static/js/237.e57df5b6.chunk.js": "/reactjs_3dspline/static/js/237.e57df5b6.chunk.js",
+    "static/media/logo.svg": "/reactjs_3dspline/static/media/logo.e258c777d2cec1e64b64937202f1e8ec.svg",
+    "static/media/icon-twitter.svg": "/reactjs_3dspline/static/media/icon-twitter.1f8af10d7d0f55fb6a77d5e462fcba76.svg",
+    "index.html": "/reactjs_3dspline/index.html",
+    "static/media/icon-laptop.svg": "/reactjs_3dspline/static/media/icon-laptop.280f18924ab59a11e682d6c007230866.svg",
+    "static/media/icon-youtube.svg": "/reactjs_3dspline/static/media/icon-youtube.d6990689144097dfeb543d27c997298f.svg",
+    "main.02a2f3d0.css.map": "/reactjs_3dspline/static/css/main.02a2f3d0.css.map",
+    "main.7e681212.js.map": "/reactjs_3dspline/static/js/main.7e681212.js.map",
+    "227.7e4dc72c.chunk.js.map": "/reactjs_3dspline/static/js/227.7e4dc72c.chunk.js.map",
+    "526.d0ec0c7b.chunk.js.map": "/reactjs_3dspline/static/js/526.d0ec0c7b.chunk.js.map",
+    "232.7c08ec9c.chunk.js.map": "/reactjs_3dspline/static/js/232.7c08ec9c.chunk.js.map",
+    "237.e57df5b6.chunk.js.map": "/reactjs_3dspline/static/js/237.e57df5b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02a2f3d0.css",
+    "static/js/main.7e681212.js"
+  ]
+}
